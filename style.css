@@ -1,10 +1,16 @@
 p{
     color: yellow;
 }
-
-h2{
-    color:aquamarine
+.logo{
+    color: yellow;
 }
 .aasu{
     color: red;
+}
+.home{
+    color: red;
+}
+.img{
+    height: 60px;
+    width: 150px;
 }
