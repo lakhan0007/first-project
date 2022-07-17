@@ -4,13 +4,14 @@ p{
 .logo{
     color: yellow;
 }
-.aasu{
-    color: red;
-}
-.home{
-    color: red;
+
+h2{
+    color: rgb(123, 255, 0);
 }
 .img{
     height: 60px;
     width: 150px;
+}
+.form{
+    color: white;
 }
