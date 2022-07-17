@@ -5,13 +5,13 @@ p{
     color: yellow;
 }
 
-h2{
-    color: rgb(123, 255, 0);
-}
 .img{
     height: 60px;
     width: 150px;
 }
 .form{
     color: white;
+}
+.home{
+    color: yellow;
 }
